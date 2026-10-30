@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="mitogent — The powerhouse for your agents." src="./assets/banner-light.svg" width="100%">
+  <img alt="mitogent — The powerhouse behind your agents." src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <br />

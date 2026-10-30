@@ -26,7 +26,7 @@
     <path d="M 20 94 L 20 62 C 20 36 53 29 66 51 C 71 59 67 72 77 75 C 91 79 94 66 94 49 C 94 18 140 18 140 52 L 140 94" fill="none" stroke="#2563FF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <text x="184" y="132" fill="#0F172A" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="650" letter-spacing="-2">mitogent</text>
-  <text x="72" y="246" fill="#0F172A" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">The powerhouse for</text>
+  <text x="72" y="246" fill="#0F172A" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">The powerhouse behind</text>
   <text x="72" y="310" fill="#2563FF" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">your agents.</text>
   <text x="72" y="356" fill="#64748B" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400">Build, run and orchestrate AI agents at scale.</text>
 </svg>
