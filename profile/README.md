@@ -5,6 +5,7 @@
 </picture>
 
 <br />
+<br />
 
 **Mitogent** provides the tools and infrastructure to build, run and orchestrate AI agents at scale.
 
