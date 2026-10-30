@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#131F45"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563FF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2563FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="markGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2563FF"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1280" height="400" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="400" fill="url(#background)"/>
+    <circle cx="1060" cy="230" r="420" fill="url(#glow)"/>
+    <g transform="translate(830 50) scale(3.6)" opacity="0.85">
+      <path d="M 20 94 L 20 62 C 20 36 53 29 66 51 C 71 59 67 72 77 75 C 91 79 94 66 94 49 C 94 18 140 18 140 52 L 140 94" fill="none" stroke="url(#markGradient)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="399" rx="27.5" fill="none" stroke="#1E293B"/>
+  <g transform="translate(64 64) scale(0.72)">
+    <path d="M 20 94 L 20 62 C 20 36 53 29 66 51 C 71 59 67 72 77 75 C 91 79 94 66 94 49 C 94 18 140 18 140 52 L 140 94" fill="none" stroke="#2563FF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="184" y="132" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="650" letter-spacing="-2">mitogent</text>
+  <text x="72" y="246" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Build, run and orchestrate</text>
+  <text x="72" y="310" fill="#2563FF" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">AI agents.</text>
+  <text x="72" y="356" fill="#94A3B8" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400">Tools and infrastructure for agents at scale.</text>
+</svg>
