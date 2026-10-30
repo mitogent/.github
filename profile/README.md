@@ -22,13 +22,6 @@
 
 - **Developer first** — typed APIs, sensible defaults, no magic.
 - **Production ready** — observable, testable and built to scale.
-- **Open by default** — we build in public and welcome contributions.
-
-### Get involved
-
-- ⭐ Star and watch our repositories to follow progress
-- 🐛 Open an issue to report bugs or request features
-- 🤝 Pull requests are welcome — check each repository's contributing guide
 
 <br />
 
